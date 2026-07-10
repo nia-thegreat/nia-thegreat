@@ -26,7 +26,7 @@ I enjoy debugging almost as much as building.
 <a target="_blank" href="https://dev.to/niathegreat" style="display: inline-block;"> <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
 </p>
 
-## Debug Mode
+## Contribution Arcade
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nia-thegreat/nia-thegreat/output/galaga-contribution-graph-dark.svg" alt="Galaga Contribution Graph">
@@ -34,6 +34,6 @@ I enjoy debugging almost as much as building.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nia-thegreat/nia-thegreat/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nia-thegreat/nia-thegreat/output/galaga-contribution-graph.svg">
-  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/nia-thegreat/nia-thegreat/output/galaga-contribution-graph.svg">
-</picture>
+
+  <p> See you in the next commit!! </p>
+
