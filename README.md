@@ -22,4 +22,6 @@ I enjoy debugging almost as much as building.
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/rania-naushadh" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/_nia_rania_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/_nia_rania_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="https://dev.to/niathegreat" style="display: inline-block;"> <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
+</p>
